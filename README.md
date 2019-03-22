@@ -1,0 +1,1 @@
+A fastify node api with mongodb
